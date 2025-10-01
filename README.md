@@ -4,4 +4,4 @@ This ARCgis based mapping exhibit  is a collaboration between intern Luke Conlin
 
 # Sites Powered by Edison by 1885
 
-<iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://experience.arcgis.com/experience/6cb3495beabb4bdba3aee30b699ebb59?draft=true"></iframe>
+<iframe width="100%" frameborder="0" scrolling="no" allowfullscreen src="https://experience.arcgis.com/experience/6cb3495beabb4bdba3aee30b699ebb59?draft=true"></iframe>
